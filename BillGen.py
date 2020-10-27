@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Oct 27 13:33:23 2020
-
 @author: dell
+Version: 0.1
 """
 # ============================================================================ #
 ## import and declare ##
@@ -134,4 +134,4 @@ def excelsave():
 		print('File Already Opened. Please Close and try again.')
 excelsave()
 
-print("Bill Create successfully in a text and Excel file "+filename+".txt and "+filename+".xlsx")
+print("Bill Created successfully in a text and Excel file "+filename+".txt and "+filename+".xlsx")
